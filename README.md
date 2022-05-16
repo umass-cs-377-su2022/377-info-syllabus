@@ -117,7 +117,7 @@ There is 1 final exam that will be released at the end of the course. The exam w
 
 Assignments will be submitted electronically. You are responsible for submitting your assignments by the assigned due date. The due dates for assignments will be clearly indicated on the schedule and it is your responsibility to update your own calendar, so you are aware of due dates. If you are unable to submit by the due date you must contact the instructor in advance to explain your circumstance. It will be determined if the late submission will be accepted, when it will be accepted, and if any late penalties will be applied.
 
-**Lateness General Guidelines**
+### Lateness General Guidelines
 
 Lateness is defined as any assignment that is outside of the stated due date requirements. It is your responsibility for maintaining your own schedule and being prompt with your submissions. We expect that you become familiar with the course submission software and verify that your submission has been properly uploaded. We will not accept late submissions due to lack of checking on this. We assume:
 
